@@ -54,11 +54,18 @@ C)
 
 NOTA: Emplee solo una calculadora física o virtual para resolver las operaciones. No debe emplear aplicaciones web y las operaciones deben realizarse en una sola operación.
 
-A)
+De los ejercicio del 9.5.1
 
-B)
+![image](https://user-images.githubusercontent.com/104911658/220758592-4f77fda5-8bb1-4c7d-befe-8f7091767b5e.png)
 
-C)
+![image](https://user-images.githubusercontent.com/104911658/220758626-9997c6aa-e065-4c86-9117-ec3f5014d7ba.png)
+
+De los ejercicios 9.5.2
+
+![image](https://user-images.githubusercontent.com/104911658/220758807-306ca6e6-be16-4fa0-a9f8-0d687e51c01b.png)
+
+![image](https://user-images.githubusercontent.com/104911658/220758755-3ef0b9cd-520d-483f-a465-36d093c39089.png)
+
 
 9.6.-VIDEO
 
