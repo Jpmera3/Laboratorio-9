@@ -86,11 +86,11 @@ Conclusion: Los resultados son semejantes ya que la calculadora nos da todos los
 
 9.7.-CONCLUSIONES
 
--Con el presente informe se pudo entender la representación del sistema de números complejos, así como el cambio de coordenadas rectangulares a polares.
+- Con el presente informe se pudo entender la representación del sistema de números complejos, así como el cambio de coordenadas rectangulares a polares.
 
 - Todos los resultados son semejantes comparados con los generados con la calculadora ya que la calculadora nos da todos los valores con los deciameles exactos y los que estan resueltos de forma teorica sus valores estan aproximados para omitir varios decimales.
 
--Fue importante poder reconocer este cambio de unidades, ya que con este fue posible entender los ejercicios con operaciones para poder resolverlos a lo largo de este informe y tambien de tareas porteriores.
+- Fue importante poder reconocer este cambio de unidades, ya que con este fue posible entender los ejercicios con operaciones para poder resolverlos a lo largo de este informe y tambien de tareas porteriores.
 
 9.8.-BIBLIOGRAFÍA
 
