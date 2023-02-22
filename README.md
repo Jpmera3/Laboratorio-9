@@ -60,12 +60,15 @@ De los ejercicio del 9.5.1
 
 ![image](https://user-images.githubusercontent.com/104911658/220758626-9997c6aa-e065-4c86-9117-ec3f5014d7ba.png)
 
+Conclusion: los resultados son muy parecidos varian por la cantidad de decimales que no considere al realizar de forma escrita.
+
 De los ejercicios 9.5.2
 
 ![image](https://user-images.githubusercontent.com/104911658/220758807-306ca6e6-be16-4fa0-a9f8-0d687e51c01b.png)
 
 ![image](https://user-images.githubusercontent.com/104911658/220758755-3ef0b9cd-520d-483f-a465-36d093c39089.png)
 
+conclusion: las respuestas son semejantes en la calculadora salen con todos los deciameles a diferencia de los que estan hechos a mano donde estan redondeados.
 
 9.6.-VIDEO
 
