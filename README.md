@@ -28,6 +28,8 @@ INFORMACIÓN GENERAL
 
 Los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales y son muy útiles en el análisis de circuitos de ca. Con el sistema de los números complejos se puede sumar, restar, multiplicar y dividir cantidades que tienen tanto magnitud como ángulo.
 
+![image](https://user-images.githubusercontent.com/104911658/220772701-c0093aaf-24b4-4233-9d28-588689921b06.png)
+
 9.4.	MATERIAL Y EQUIPO REQUERIDO
 
 ![MATERIALES](https://user-images.githubusercontent.com/117534483/220759577-4d154fbe-9378-423a-9e11-1f03eac4556f.png)
