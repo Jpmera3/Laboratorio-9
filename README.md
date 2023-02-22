@@ -30,7 +30,7 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 9.4.	MATERIAL Y EQUIPO REQUERIDO
 
-
+![MATERIALES](https://user-images.githubusercontent.com/117534483/220759577-4d154fbe-9378-423a-9e11-1f03eac4556f.png)
 
 9.5.	PROCEDIMIENTO
 
