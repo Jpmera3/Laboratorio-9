@@ -36,23 +36,11 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 9.5.1.	Sin emplear calculadora. Transforme a su forma polar: 
 
-A)
-
-B)
-
-C)
-
-D)
+![image](https://user-images.githubusercontent.com/104911658/220756805-63d3524a-f4eb-4227-a83c-71093c942824.png)
 
 9.5.2 Sin emplear calculadora. Transforme a su forma rectangular: 
 
-A)
-
-B)
-
-C)
-
-D)
+![image](https://user-images.githubusercontent.com/104911658/220756895-ad6712d5-5a65-4e1f-b492-9a9de8af39b3.png)
 
 9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
