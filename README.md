@@ -44,11 +44,11 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
-A)
+![9 1 A](https://user-images.githubusercontent.com/117534483/220764676-a6334c24-8551-489d-8bd9-bdd3b18cba8b.png)
 
-B)
+![9 1 B](https://user-images.githubusercontent.com/117534483/220764699-b14375ce-e0bc-420a-850b-d7bc519d6412.png)
 
-C)
+![9 1 C](https://user-images.githubusercontent.com/117534483/220764701-e983b9b0-ed35-453b-ba44-fdf63dd2e0a0.png)
 
 9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
@@ -68,7 +68,17 @@ De los ejercicios 9.5.2
 
 ![image](https://user-images.githubusercontent.com/104911658/220758755-3ef0b9cd-520d-483f-a465-36d093c39089.png)
 
-conclusion: las respuestas son semejantes en la calculadora salen con todos los deciameles a diferencia de los que estan hechos a mano donde estan redondeados.
+Conclusion: las respuestas son semejantes en la calculadora salen con todos los deciameles a diferencia de los que estan hechos a mano donde estan redondeados.
+
+De los ejercicio del 9.5.3
+
+![9 2 A](https://user-images.githubusercontent.com/117534483/220764815-3cffc510-e7d3-4d50-a725-fc75a29385aa.png)
+
+![9 2 B](https://user-images.githubusercontent.com/117534483/220764819-5e9f1742-3cfa-4223-9c8d-260c0a22ce39.png)
+
+![9 2 C](https://user-images.githubusercontent.com/117534483/220764821-54099c29-1634-4f05-94c3-964cee2a6d4a.png)
+
+Conclusion: Los resultados son semejantes ya que la calculadora nos da todos los valores con los deciameles exactos y los que estan resueltos paso a paso sus valores estan redondeados.
 
 9.6.-VIDEO
 
